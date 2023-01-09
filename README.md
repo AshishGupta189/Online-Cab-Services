@@ -33,13 +33,10 @@
     * Only logged in user can access his trip history, profile updation and other features.
 
 ## Contributors
-*<a href="https://github.com/alka1520">Alka Singh</a>
-<br>
-*<a href="https://github.com/mynkgupta22">Mayank Gupta</a>
-<br>
-*<a href="https://github.com/AshishGupta189">Ashish Gupta</a>
-<br>
-*<a href="https://github.com/prasannaj-15">Prasanna Jadhav</a>
+* <a href="https://github.com/alka1520">Alka Singh</a>
+* <a href="https://github.com/mynkgupta22">Mayank Gupta</a>
+* <a href="https://github.com/AshishGupta189">Ashish Gupta</a>
+* <a href="https://github.com/prasannaj-15">Prasanna Jadhav</a>
 
 
 ## Installation & Run
